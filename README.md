@@ -8,7 +8,5 @@ Specialties:  Information Technology Technician
 
 
 m: +94777124218
-
 e: hansakaudana671@gmail.com
-
 w: https://github.com/HansakaUdana
